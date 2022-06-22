@@ -20,6 +20,9 @@ Contents
 --------
 
 .. toctree::
-
-   usage
-   api
+   :hidden:
+   Lab Basics/Onboarding/Meetings/Training/Projects/Expectations/Authorship
+   Research
+   Mentoring Philosophy
+   Professional Development
+   
