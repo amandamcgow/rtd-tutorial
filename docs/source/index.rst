@@ -20,15 +20,8 @@ Contents
 --------
 
 .. toctree::
-   Lab Basics
    :hidden:
-   Onboarding
-   Meetings
-   Training
-   Projects
-   Expectations
-   Authorship
-.. toctree::   
+   Lab Basics/Onboarding/Meetings/Training/Projects/Expectations/Authorship
    Research
    Mentoring Philosophy
    Professional Development
